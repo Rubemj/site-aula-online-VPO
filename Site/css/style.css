@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(58deg, rgba(2, 0, 36, 1) 0%, rgba(255, 255, 255, 1) 38%, rgba(216, 248, 255, 1) 57%, rgba(0, 212, 255, 1) 100%);
+    text-align: center;
+}
+
+header {
+    background-color: rgb(207, 204, 200);
+    color: white;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.caracteristicas {
+    padding: 20px 0;
+    background-color: rgba(0, 0, 0, 0.378);
+    margin: 20px auto;
+    max-width: 600px;
+    border: 5px;
+    border-radius: 2em;
+    border-color: black;
+}
+
+.caracteristicas h2 {
+    margin-bottom: 20px;
+    font-size: 1.8em;
+}
+
+.chamada {
+    margin: 20px auto;
+    max-width: 500px;
+    color: white;
+}
+
+footer {
+    display: block;
+    background-color: black;
+    padding: 15px;
+    color: aliceblue;
+    text-decoration: double;
+    font-weight: bold;
+}
